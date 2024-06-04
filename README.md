@@ -1,4 +1,4 @@
-[![](https://github.com/mihirr007/mihir-r/blob/master/chat.svg)](https://www.linkedin.com/in/rmihir/)
+[![](https://github.com/mihirr007/mihirr007/blob/main/chat.svg)](https://www.linkedin.com/in/rmihir/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
