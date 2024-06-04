@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/rmihir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rmihir/" height="30" width="40" /></a>
 </p>
 
-- 📖 Want to read something? Check out one of my projects: [https://thebookbrief.com/](https://thebookbrief.com/)
+<h3 align="left">📖 Want to read something? Check out one of my projects: [https://thebookbrief.com/](https://thebookbrief.com/) </h3>
 
 <h3 align="left">My Skills:</h3>
 
