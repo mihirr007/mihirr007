@@ -8,4 +8,4 @@
 </p>
 <h3 align="left">My Skills:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,angular,aws,azure,bash,bitbucket,bootstrap,c,cassandra,css,discord,django,docker,elasticsearch,fastapi,figma,flask,gcp,git,github,go,graphql,heroku,html,java,jquery,js,kafka,kubernetes,linux,mongodb,mysql,nodejs,npm,opencv,postgres,powershell,py,postman,r,react,regex,selenium,sklearn,tailwind,tensorflow,terraform,ubuntu,vscode,vercel,vue&theme=light)](https://www.linkedin.com/in/rmihir/)
