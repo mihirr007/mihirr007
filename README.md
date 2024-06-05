@@ -8,8 +8,7 @@
 </p>
 
 ### Want to read something? Check out one of my projects 👉 [thebookbrief.com](https://thebookbrief.com/)
-[![alt text](https://github.com/mihirr007/mihirr007/blob/main/bookbrief-hero-section.png)](https://thebookbrief.com/ "Click to open in a new tab")
-
+[![alt text](https://github.com/mihirr007/mihirr007/blob/main/bookbrief-hero-section.png)](https://thebookbrief.com/)
 
 <h3 align="left">My Skills:</h3>
 
