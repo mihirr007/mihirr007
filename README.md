@@ -8,9 +8,10 @@
 </p>
 
 ### Want to read something? Check out one of my projects 👉 [thebookbrief.com](https://thebookbrief.com/)
-<a href="https://thebookbrief.com/" target="_blank">
+<a href="https://thebookbrief.com/" target="_blank" rel="noopener noreferrer">
   <img src="https://github.com/mihirr007/mihirr007/blob/main/bookbrief-hero-section.png" alt="alt text" />
 </a>
+
 
 
 <h3 align="left">My Skills:</h3>
